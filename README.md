@@ -4,9 +4,9 @@
 [![Resume Badge](https://img.shields.io/badge/Resume-red)](https://cv.maxdaten.io/)
 
 ## 🧑‍💻 About Me
-I'm a Senior DevOps and Full-stack Developer with a master's degree in Computer Science from Hamburg, Germany.
-I have a strong passion functional programming, continuous deployment and cloud architecture.
-Whether it's streamlining deployment pipelines or , I love what I do and I do what I love!
+I'm a Senior Full-stack Developer with a master's degree in Computer Science from Hamburg, Germany.
+I have a strong passion for functional programming, continuous deployment and cloud architecture and living the DevOps priciples.
+Whether it's streamlining deployment pipelines or learning new interesting concepts, I love what I do and I do what I love!
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Haskell, Scala, Kotlin, Python, JavaScript, TypeScript, Java
