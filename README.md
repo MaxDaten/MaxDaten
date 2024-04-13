@@ -1,5 +1,8 @@
 # Hello, I'm Jan-Philip! 👋
 
+[![Blog Badge](https://img.shields.io/badge/Blog-blue)](https://www.maxdaten.io/)
+[![Resume Badge](https://img.shields.io/badge/Resume-red)](https://cv.maxdaten.io/)
+
 ## 🧑‍💻 About Me
 I'm a Senior DevOps and Full-stack Developer with a master's degree in Computer Science from Hamburg, Germany.
 I have a strong passion functional programming, continuous deployment and cloud architecture.
