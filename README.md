@@ -31,7 +31,7 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 ## 🏆 Awards
 - 2018: [German Design Award (Winner: Excellent Communications Design -- Apps)](https://www.german-design-award.com/die-gewinner/galerie/detail/14562-papego.html)
 - 2016: [Isarnetz Award für Medieninnovation](https://www.briends.net/2016/11/04/papego-mit-isarnetz-award-f%C3%BCr-medieninnovation-ausgezeichnet/)
-* 2016: CONTENTshift Award (Börsenverein des Deutschen Buchhandels)
-* 2016: Best of „Neuland 2.0“ at Leipziger Buchmesse
+- 2016: CONTENTshift Award (Börsenverein des Deutschen Buchhandels)
+- 2016: Best of „Neuland 2.0“ at Leipziger Buchmesse
 
 Feel free to check out my repositories and don't hesitate to connect if you have any questions or need collaboration on a project!
