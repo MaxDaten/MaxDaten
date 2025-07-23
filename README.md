@@ -24,7 +24,7 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 - Exploring the depths of functional programming and its integration with modern web frameworks.
 
 ## 📫 How to reach me
-- Email: [jan-philip@entwicklerteam.hamburg](mailto:jan-philip@entwicklerteam.hamburg)
+- Email: [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
 - LinkedIn: [Jan-Philip Loos](https://www.linkedin.com/in/jan-philip-loos-770b23201/)
 - Schedule a Call: [Book a Meeting](https://calendly.com/jan-philip-loos/30min)
 
