@@ -26,11 +26,12 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 - 🔧 Crossplane compositions for developer self-service infrastructure
 - 🔐 Keyless authentication patterns (OIDC, Workload Identity Federation)
 - 🦀 Rust for backend systems and CLI tooling
+- 🐹 Go for cloud-native tooling and Kubernetes operators
 
 ## ✍️ Recent Writing
-- [Test-Driven Infrastructure](https://www.maxdaten.io/blog/test-driven-infrastructure/) - Testing infrastructure with Terragrunt
-- [Continuous Delivery Transformation](https://www.maxdaten.io/blog/continuous-delivery-transformation/) - CD best practices
-- [My 2025 Developer Tech Stack](https://www.maxdaten.io/blog/my-2025-developer-tech-stack/) - Current tool preferences
+- [Test-Driven Infrastructure](https://www.maxdaten.io/2025-09-03-tdd-infrastructure-terragrunt) - Testing infrastructure with Terragrunt
+- [Continuous Delivery Transformation](https://www.maxdaten.io/2025-08-09-your-continuous-delivery-transformation-is-not-complete) - CD best practices
+- [My 2025 Developer Tech Stack](https://www.maxdaten.io/00-uses) - Current tool preferences
 
 ## 📫 How to reach me
 - Email: [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
