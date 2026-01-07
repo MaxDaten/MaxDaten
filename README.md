@@ -5,28 +5,44 @@
 
 ## 🧑‍💻 About Me
 I'm a Senior Full-stack Developer with a master's degree in Computer Science from Hamburg, Germany.
-I have a strong passion for functional programming, continuous deployment and cloud architecture and living the DevOps priciples.
+I have a strong passion for functional programming, continuous deployment and cloud architecture and living the DevOps principles.
 Whether it's streamlining deployment pipelines or learning new interesting concepts, I love what I do and I do what I love!
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Haskell, Scala, Kotlin, Python, JavaScript, TypeScript, Java
-- **Frameworks/Libraries**: Svelte, React, Vue.js, Spring Boot, .NET, Java Spring Boot
-- **Databases**: PostgreSQL, Solr, Elasticsearch
-- **DevOps & CI/CD**: Kubernetes, FluxCD, Docker, Jenkins, Terraform, AWS, NixOS
-- **Misc**: Figma, Fastlane, Kafka, Nginx
 
-## 🔭 I’m currently working on
-- Challenging quiz masters with clueless participants
-- Connecting people with joybeans
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Haskell · Scala · Kotlin · TypeScript · Python · Rust |
+| **Frontend** | SvelteKit · React · Vue.js · Preact |
+| **Backend & Data** | Node.js · GraphQL · PostgreSQL · Solr · Kafka |
+| **Platform & DevOps** | Kubernetes · Flux CD · Crossplane · Terraform/Terragrunt · GitHub Actions |
+| **Cloud & Infra** | GCP (GKE, Cloud SQL) · AWS · Nix/devenv.sh · Docker |
 
-## 🌱 I’m currently learning
-- Advanced machine learning models and their applications in web technologies.
-- Exploring the depths of functional programming and its integration with modern web frameworks.
+## 🔭 I'm currently working on
+- 🏗️ Building self-service Kubernetes platforms with GitOps (Flux CD, Crossplane)
+- 🏥 Developing healthcare software for digital billing at [Medosync](https://medosync.com)
+- ✍️ Writing about infrastructure and DevOps on my [blog](https://www.maxdaten.io/)
+
+## 🌱 I'm currently learning
+- 🔧 Crossplane compositions for developer self-service infrastructure
+- 🔐 Keyless authentication patterns (OIDC, Workload Identity Federation)
+- 🦀 Rust for backend systems and CLI tooling
+
+## ✍️ Recent Writing
+- [Test-Driven Infrastructure](https://www.maxdaten.io/blog/test-driven-infrastructure/) - Testing infrastructure with Terragrunt
+- [Continuous Delivery Transformation](https://www.maxdaten.io/blog/continuous-delivery-transformation/) - CD best practices
+- [My 2025 Developer Tech Stack](https://www.maxdaten.io/blog/my-2025-developer-tech-stack/) - Current tool preferences
 
 ## 📫 How to reach me
 - Email: [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
 - LinkedIn: [Jan-Philip Loos](https://www.linkedin.com/in/jan-philip-loos-770b23201/)
 - Schedule a Call: [Book a Meeting](https://calendly.com/jan-philip-loos/30min)
+
+## 📊 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxDaten&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDaten&layout=compact&hide_border=true)
 
 ## 🏆 Awards
 - 2018: [German Design Award (Winner: Excellent Communications Design -- Apps)](https://www.german-design-award.com/die-gewinner/galerie/detail/14562-papego.html)
