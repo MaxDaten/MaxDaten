@@ -40,9 +40,8 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 
 ## 📊 GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxDaten&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxDaten&layout=compact&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxDaten&theme=github)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxDaten&theme=github)
 
 ## 🏆 Awards
 - 2018: [German Design Award (Winner: Excellent Communications Design -- Apps)](https://www.german-design-award.com/die-gewinner/galerie/detail/14562-papego.html)
