@@ -20,7 +20,6 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 
 ## 🔭 I'm currently working on
 - 🏗️ Building self-service Kubernetes platforms with GitOps (Flux CD, Crossplane)
-- 🏥 Developing healthcare software for digital billing at [Medosync](https://medosync.com)
 - ✍️ Writing about infrastructure and DevOps on my [blog](https://www.maxdaten.io/)
 
 ## 🌱 I'm currently learning
@@ -36,7 +35,7 @@ Whether it's streamlining deployment pipelines or learning new interesting conce
 ## 📫 How to reach me
 - Email: [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
 - LinkedIn: [Jan-Philip Loos](https://www.linkedin.com/in/jan-philip-loos-770b23201/)
-- Schedule a Call: [Book a Meeting](https://calendly.com/jan-philip-loos/30min)
+- Schedule a Call: [Book a Meeting](https://calendar.app.google/KhVdEThcwSEBCjat5)
 
 ## 📊 GitHub Activity
 
