@@ -1,52 +1,44 @@
-# Hello, I'm Jan-Philip! 👋
+# Hi, I'm Jan-Philip 👋
 
-[![Blog Badge](https://img.shields.io/badge/Blog-blue)](https://www.maxdaten.io/)
-[![Resume Badge](https://img.shields.io/badge/Resume-red)](https://cv.maxdaten.io/)
+**Technical Product Advisor** · Hamburg, Germany
 
-## 🧑‍💻 About Me
-I'm a Senior Full-stack Developer with a master's degree in Computer Science from Hamburg, Germany.
-I have a strong passion for functional programming, continuous deployment and cloud architecture and living the DevOps principles.
-Whether it's streamlining deployment pipelines or learning new interesting concepts, I love what I do and I do what I love!
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-orange)](https://calendar.app.google/KhVdEThcwSEBCjat5)
+[![Blog](https://img.shields.io/badge/Blog-blue)](https://www.maxdaten.io/)
+[![Resume](https://img.shields.io/badge/Resume-gray)](https://cv.maxdaten.io/)
 
-## 🛠️ Technologies & Tools
+## About
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Haskell · Scala · Kotlin · TypeScript · Python · Rust |
-| **Frontend** | SvelteKit · React · Vue.js · Preact |
-| **Backend & Data** | Node.js · GraphQL · PostgreSQL · Solr · Kafka |
-| **Platform & DevOps** | Kubernetes · Flux CD · Crossplane · Terraform/Terragrunt · GitHub Actions |
-| **Cloud & Infra** | GCP (GKE, Cloud SQL) · AWS · Nix/devenv.sh · Docker |
+I help engineering teams ship products that scale — from frontend to infrastructure.
 
-## 🔭 I'm currently working on
-- 🏗️ Building self-service Kubernetes platforms with GitOps (Flux CD, Crossplane)
-- ✍️ Writing about infrastructure and DevOps on my [blog](https://www.maxdaten.io/)
+**12+ years** building software, including **11 years as startup co-founder** (Papego, German Design Award 2018). I've scaled systems to **100M+ requests/day** and deployed to **700+ retail locations**.
 
-## 🌱 I'm currently learning
-- 🔧 Crossplane compositions for developer self-service infrastructure
-- 🔐 Keyless authentication patterns (OIDC, Workload Identity Federation)
-- 🦀 Rust for backend systems and CLI tooling
-- 🐹 Go for cloud-native tooling and Kubernetes operators
+Now I work as an independent consultant, combining hands-on product engineering with knowledge transfer so your team owns it after I leave.
 
-## ✍️ Recent Writing
-- [Test-Driven Infrastructure](https://www.maxdaten.io/2025-09-03-tdd-infrastructure-terragrunt) - Testing infrastructure with Terragrunt
-- [Continuous Delivery Transformation](https://www.maxdaten.io/2025-08-09-your-continuous-delivery-transformation-is-not-complete) - CD best practices
-- [My 2025 Developer Tech Stack](https://www.maxdaten.io/00-uses) - Current tool preferences
+**Available for 2026 engagements.**
 
-## 📫 How to reach me
-- Email: [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
-- LinkedIn: [Jan-Philip Loos](https://www.linkedin.com/in/jan-philip-loos-770b23201/)
-- Schedule a Call: [Book a Meeting](https://calendar.app.google/KhVdEThcwSEBCjat5)
+## What I Work With
 
-## 📊 GitHub Activity
+| Stack | Technologies |
+|-------|--------------|
+| **Languages** | TypeScript · Kotlin · Rust · Python · Haskell |
+| **Frontend** | SvelteKit · React |
+| **Backend** | Node.js · GraphQL · PostgreSQL · Kafka |
+| **Platform** | Kubernetes · GitOps (Flux CD) · Terraform · Crossplane |
+| **Cloud** | GCP · AWS · Nix/devenv.sh |
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxDaten&theme=github)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxDaten&theme=github)
+## Currently
 
-## 🏆 Awards
-- 2018: [German Design Award (Winner: Excellent Communications Design -- Apps)](https://www.german-design-award.com/die-gewinner/galerie/detail/14562-papego.html)
-- 2016: [Isarnetz Award für Medieninnovation](https://www.briends.net/2016/11/04/papego-mit-isarnetz-award-f%C3%BCr-medieninnovation-ausgezeichnet/)
-- 2016: CONTENTshift Award (Börsenverein des Deutschen Buchhandels)
-- 2016: Best of „Neuland 2.0“ at Leipziger Buchmesse
+- 🏗️ Building full-stack products with GitOps infrastructure
+- ✍️ Writing about [infrastructure and DevOps](https://www.maxdaten.io/)
+- 🌱 Deepening Rust and Go for backend systems
 
-Feel free to check out my repositories and don't hesitate to connect if you have any questions or need collaboration on a project!
+## Recognition
+
+- 🏆 **German Design Award 2018** — Papego (Excellent Communications Design)
+- 🏆 Isarnetz Award, CONTENTshift Award, Best of Leipziger Buchmesse 2016
+
+## Let's Talk
+
+- 📅 [Book a call](https://calendar.app.google/KhVdEThcwSEBCjat5)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maxdaten/)
+- 📧 [jloos@maxdaten.io](mailto:jloos@maxdaten.io)
