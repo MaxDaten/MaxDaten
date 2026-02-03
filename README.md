@@ -10,7 +10,7 @@
 
 I help engineering teams ship products that scale — from frontend to infrastructure.
 
-**12+ years** building software, including **11 years as startup co-founder** (Papego, German Design Award 2018). I've scaled systems to **100M+ requests/day** and deployed to **700+ retail locations**.
+**15+ years** building software, including **11 years as startup co-founder** (Papego, German Design Award 2018). I've scaled systems to **100M+ requests/day** and deployed to **700+ retail locations**.
 
 Now I work as an independent consultant, combining hands-on product engineering with knowledge transfer so your team owns it after I leave.
 
