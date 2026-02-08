@@ -1,0 +1,56 @@
+name: Update Latest Blog Post
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest post and update README
+        run: |
+          python3 << 'SCRIPT'
+          import xml.etree.ElementTree as ET
+          import urllib.request
+          import re
+
+          with urllib.request.urlopen('https://www.maxdaten.io/rss.xml') as resp:
+              rss = resp.read()
+
+          root = ET.fromstring(rss)
+          item = root.find('.//item')
+          if item is None:
+              print('No items in RSS feed')
+              raise SystemExit(0)
+
+          title = item.find('title').text.strip()
+          link = item.find('link').text.strip()
+
+          with open('README.md') as f:
+              content = f.read()
+
+          new_line = f'- 📝 Latest post: [{title}]({link})'
+          updated = re.sub(r'- 📝 Latest post: \[.*?\]\(.*?\)', new_line, content)
+
+          if updated == content:
+              print('Already up to date')
+              raise SystemExit(0)
+
+          with open('README.md', 'w') as f:
+              f.write(updated)
+
+          print(f'Updated: {title} — {link}')
+          SCRIPT
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || \
+            (git add README.md && git commit -m "Update latest blog post in profile" && git push)
