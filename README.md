@@ -29,6 +29,7 @@ Now I work as an independent consultant, combining hands-on product engineering 
 ## Currently
 
 - 🏗️ Building full-stack products with GitOps infrastructure
+- 📝 Latest post: [Ship Your Toolchain, Not Just Infrastructure](https://maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure)
 - ✍️ Writing about [infrastructure and DevOps](https://www.maxdaten.io/)
 - 🌱 Deepening Rust and Go for backend systems
 
